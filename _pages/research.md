@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 **Publications** 
+
 Kristin L. Olofsson, Priyadarshini Selvakumar, Kaitlin Peach, Maggie Leon-Corwin, Sam A Stormer, Kuhika Gupta, Nina Carlson, Martha Sibley. 2023. <span syle="color:blue;">"Effective Stakeholder Engagement in Environmental Problem-Solving though Group Model Building: An Oklahoma Case Study." </span> <em>Environmental Challenges.</em> DOI: <a href= "[https://doi.org/10.1111/lsq.12425">10.1111/lsq.12425</a>.
 
 <blockquote>Stakeholder engagement is a vital, yet under-accessed and under-studied, resource for tackling wicked environmental problems. This paper examines mental models – cognitive representations of “real” systems – refined through group model building (GMB) with stakeholders concerned with environmental issues in the US state of Oklahoma. During GMB, a diverse group of high-level decision makers met with a variety of physical and social scientists to collaborate on mental models concerning three environmental focus areas in Oklahoma: encroachment of eastern red cedar, grid and infrastructure resilience, and marginal water use and re-use. We ask: how do individuals from diverse stakeholder groups describe causes and consequences of key environmental problems in Oklahoma? Results from this analysis advance efforts toward developing socially sustainable solutions for environmental problems in Oklahoma and beyond.
